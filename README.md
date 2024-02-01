@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2500&color=4E3DF7&center=true&vCenter=true&multiline=true&random=false&width=435&lines=Software+Engineering+Student;Emiliano+Rios)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=2000&color=4E3DF7&center=true&vCenter=true&multiline=true&random=false&width=540&height=70&lines=Emiliano+Rios%2C+Software+Engineering++Student)](https://git.io/typing-svg)
 ```
 #include <stdio.h>
 #include <string.h>
