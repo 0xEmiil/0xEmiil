@@ -8,8 +8,8 @@ std::vector<std::string> learning_skills {"Reverse Engineering", "Python", "SQL"
 
 int main() {
     
-    std::cout<<"Mexican, Spanish and English";
-    std::cout << "Hello, im Emiliano Rios i study Software Engineering, my aim its totally learn backend skills, i love complex and hard proyects because they keep me in learning!";
+    std::cout<<"Mexican, Spanish and English\n";
+    std::cout << "Hello, im Emiliano Rios i study Software Engineering, my aim its totally learn backend skills,\ni love complex and hard proyects because they keep me in learning!";
     std::cout << "This are my current skills\n";
     for (auto it : langs)
     {
